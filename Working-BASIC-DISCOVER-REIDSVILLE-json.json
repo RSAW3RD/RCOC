@@ -1,0 +1,28 @@
+{
+	"lastUpdated": "2020-02-18T06:40:55+00:00",
+	"providerName": "ReidsvilleChamberOfCommerce",
+	"language": "en-US",
+	"shortFormVideos": [{
+		"id": "201",
+		"title": "Discover Reidsville NC",
+		"content": {
+			"dateAdded": "2020-02-18T06:39:31+00:00",
+			"videos": [{
+				"url": "https://app.viloud.tv/hls/channel/96eff25393dbb2d284e0eea689fb07b4.m3u8",
+				"quality": "HD",
+				"videoType": "HLS",
+				"bitrate": 1000
+			}],
+			"duration": 86400
+		},
+		"thumbnail": "http://www.rceno.com/images/800-450-DiscoverReidsvilleNC.jpg",
+		"shortDescription": "Reidsville, North Carolina News and Event Information",
+		"releaseDate": "2020-02-18",
+		"longDescription": "Discover Reidsville, NC - News and Event Information from Reidsville, NC Area",
+		"tags": [
+			"Reidsville"
+		]
+
+	}]
+
+}
